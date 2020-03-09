@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyValueStorageAPI", "KeyValueStorageAPI\KeyValueStorageAPI.csproj", "{84BEEA75-0E13-4454-98D8-77ECE8D34CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F27F88D6-DFE1-46C1-B5C6-497AD7309F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7399EE7C-C526-46A3-B703-548A047A6B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageImplementation", "StorageImplementation\StorageImplementation.csproj", "{53CA618E-E5D1-44DB-8E3C-1C1926237D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BEEA75-0E13-4454-98D8-77ECE8D34CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BEEA75-0E13-4454-98D8-77ECE8D34CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BEEA75-0E13-4454-98D8-77ECE8D34CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BEEA75-0E13-4454-98D8-77ECE8D34CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27F88D6-DFE1-46C1-B5C6-497AD7309F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27F88D6-DFE1-46C1-B5C6-497AD7309F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27F88D6-DFE1-46C1-B5C6-497AD7309F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27F88D6-DFE1-46C1-B5C6-497AD7309F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7399EE7C-C526-46A3-B703-548A047A6B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7399EE7C-C526-46A3-B703-548A047A6B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7399EE7C-C526-46A3-B703-548A047A6B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7399EE7C-C526-46A3-B703-548A047A6B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CA618E-E5D1-44DB-8E3C-1C1926237D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CA618E-E5D1-44DB-8E3C-1C1926237D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CA618E-E5D1-44DB-8E3C-1C1926237D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CA618E-E5D1-44DB-8E3C-1C1926237D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
